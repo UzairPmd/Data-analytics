@@ -11,6 +11,11 @@ This project focuses on learning core data analysis techniques such as data expl
 - Olympic Athlete Events Dataset
 - Contains information about athletes, sports, medals, countries, Olympic years, age, height, weight, and events.
 
+The dataset used in this project is too large to be included in this repository.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 ---
 
 ## Technologies Used
