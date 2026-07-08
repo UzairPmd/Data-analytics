@@ -1,21 +1,11 @@
-# 🏅 Olympics Data Analysis using Pandas
+# 📊 Pandas Exploratory Data Analysis (EDA)
 
-A beginner-friendly data analysis project exploring the Olympic Athlete Events dataset using **Python**, **Pandas**, and **Matplotlib**.
+## Overview
 
-This project focuses on learning core data analysis techniques such as data exploration, filtering, grouping, sorting, aggregation, handling missing values, and basic visualization.
+This folder contains Exploratory Data Analysis (EDA) projects completed using **Python**, **Pandas**, and **Matplotlib**.
 
----
+The goal of these projects is to strengthen practical data analysis skills by working with real-world datasets, performing data cleaning, exploring patterns, answering business questions, and creating visualizations.
 
-## Dataset
-
-- Olympic Athlete Events Dataset
-- Contains information about athletes, sports, medals, countries, Olympic years, age, height, weight, and events.
-
-The dataset used in this project is too large to be included in this repository.
-
-You can download it from Kaggle:
-
-https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 ---
 
 ## Technologies Used
@@ -30,170 +20,83 @@ https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-a
 ## Skills Practiced
 
 - Reading CSV files
-- Data inspection
-- Data filtering
-- Sorting data
-- GroupBy operations
+- Data Inspection
+- Data Cleaning
+- Handling Missing Values
+- Removing Duplicates
+- Feature Engineering
+- Filtering & Sorting
+- GroupBy Operations
 - Aggregations
-- Handling missing values
-- Finding unique values
-- Data visualization
-- Answering business-style analytical questions
+- DateTime Manipulation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insight Generation
 
 ---
 
-## Analysis Performed
+## Projects
 
-### Data Exploration
+### 🏅 Olympics Data Analysis
 
-- Loaded dataset
-- Viewed dataset structure
-- Checked data types
-- Checked missing values
-- Generated summary statistics
+**Dataset:** Olympic Athlete Events
 
-### Data Cleaning
+**Highlights**
 
-- Identified null values
-- Worked with missing data
+- Data exploration
+- Missing value analysis
+- Athlete demographics
+- Medal analysis
+- Country analysis
+- Sport-wise statistics
+- GroupBy operations
+- Basic visualizations
 
-### Data Analysis
+**Skills Used**
 
-- Number of male and female athletes
-- Number of teams
-- Number of sports
-- Medal counts
-- Average athlete age by sport
-- Participants per Olympic year
-- Countries with highest medal count
-- Sports with highest participation
-
-### Visualization
-
-- Participants across Olympic years (Bar Chart)
-
----
-
-## Sample Questions Answered
-
-- Which country won the most medals?
-- Which sport has the oldest athletes?
-- Which Olympic year had the highest participation?
-- Which sports have the highest participation?
-- Average age by sport
-- Medal distribution
-
----
-
-## Learning Outcomes
-
-This project helped me practice:
-
-- Pandas DataFrame operations
-- Data filtering and querying
-- GroupBy and aggregation
-- Sorting datasets
-- Basic exploratory data analysis (EDA)
-- Data visualization using Matplotlib
-
----
-# 🏅 Olympics Data Analysis using Pandas
-
-A beginner-friendly data analysis project exploring the Olympic Athlete Events dataset using **Python**, **Pandas**, and **Matplotlib**.
-
-This project focuses on learning core data analysis techniques such as data exploration, filtering, grouping, sorting, aggregation, handling missing values, and basic visualization.
-
----
-
-## Dataset
-
-- Olympic Athlete Events Dataset
-- Contains information about athletes, sports, medals, countries, Olympic years, age, height, weight, and events.
-
-The dataset used in this project is too large to be included in this repository.
-
-You can download it from Kaggle:
-
-https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
----
-
-## Technologies Used
-
-- Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- Data Cleaning
+- GroupBy
+- Aggregation
 
 ---
 
-## Skills Practiced
+### 🛒 Online Retail Analysis
 
-- Reading CSV files
-- Data inspection
-- Data filtering
-- Sorting data
-- GroupBy operations
-- Aggregations
-- Handling missing values
-- Finding unique values
-- Data visualization
-- Answering business-style analytical questions
+**Dataset:** Online Retail Transactions
 
----
+**Highlights**
 
-## Analysis Performed
+- Data cleaning
+- Customer analysis
+- Product analysis
+- Revenue analysis
+- Country-wise sales
+- Monthly sales trends
+- Feature engineering
+- Business insights
 
-### Data Exploration
+**Skills Used**
 
-- Loaded dataset
-- Viewed dataset structure
-- Checked data types
-- Checked missing values
-- Generated summary statistics
-
-### Data Cleaning
-
-- Identified null values
-- Worked with missing data
-
-### Data Analysis
-
-- Number of male and female athletes
-- Number of teams
-- Number of sports
-- Medal counts
-- Average athlete age by sport
-- Participants per Olympic year
-- Countries with highest medal count
-- Sports with highest participation
-
-### Visualization
-
-- Participants across Olympic years (Bar Chart)
+- Pandas
+- DateTime operations
+- GroupBy
+- Feature Engineering
+- Data Visualization
 
 ---
 
-## Sample Questions Answered
+## Learning Objectives
 
-- Which country won the most medals?
-- Which sport has the oldest athletes?
-- Which Olympic year had the highest participation?
-- Which sports have the highest participation?
-- Average age by sport
-- Medal distribution
+These projects helped me practice:
 
----
-
-## Learning Outcomes
-
-This project helped me practice:
-
-- Pandas DataFrame operations
-- Data filtering and querying
-- GroupBy and aggregation
-- Sorting datasets
-- Basic exploratory data analysis (EDA)
-- Data visualization using Matplotlib
+- Working with real-world datasets
+- Cleaning messy data
+- Exploratory Data Analysis (EDA)
+- Extracting business insights
+- Writing efficient Pandas code
+- Preparing data for visualization
 
 ---
 
